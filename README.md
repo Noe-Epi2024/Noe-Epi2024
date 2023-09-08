@@ -7,7 +7,7 @@
 
 Hello You 👋
 
-I'm Noe, a junior full-stack developer, currently in my third year at epitech paris where I'm preparing my future degree.
+I'm Noe, a junior full-stack developer, currently in my third year at epitech paris where I'm preparing my Master degree.
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=55C2E1)
