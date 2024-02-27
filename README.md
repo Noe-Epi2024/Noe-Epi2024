@@ -23,8 +23,9 @@ I'm Noe, a junior full-stack developer, currently in my last year at epitech par
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs&logoColor=white&color=55C2E1)
 <br>
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html5&logoColor=white&color=55C2E1)
-![](https://img.shields.io/badge/Style-Css-informational?style=flat&logo=css3&logoColor=white&color=55C2E1)
+![](https://img.shields.io/badge/Style-Css-informational?style=flat&logo=css3&logoColor=white&color=ff6a6a)
 <br>
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=55C2E1)
 <br>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=55C2E1)
+<br>
