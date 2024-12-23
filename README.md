@@ -5,7 +5,7 @@
 
 Hello You 👋
 
-I'm Noe, a junior full-stack developer
+I'm Noe, a full-stack developer
 
 ## 💻 Skills
 
@@ -42,7 +42,14 @@ I'm Noe, a junior full-stack developer
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=55C2E1)
 
 ###  📍 Database
-![](https://img.shields.io/badge/Style-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=c90c69)
-![](https://img.shields.io/badge/Style-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=c90c69)
-![](https://img.shields.io/badge/Style-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=c90c69)
-![](https://img.shields.io/badge/Style-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=c90c69)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=c90c69)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=c90c69)
+![](https://img.shields.io/badge/Database-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=c90c69)
+![](https://img.shields.io/badge/Database-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=c90c69)
+
+###  📍 DevOps
+![](https://img.shields.io/badge/Tool-GitLab_CI%2FCD-informational?style=flat&logo=gitlab&logoColor=white&color=0E86D4)
+![](https://img.shields.io/badge/Tool-Harbor-informational?style=flat&logo=harbor&logoColor=white&color=0E86D4)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=0E86D4)
+![](https://img.shields.io/badge/Tool-Vault-informational?style=flat&logo=hashicorp&logoColor=white&color=5C4EE5)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=0E86D4)
